@@ -29,6 +29,7 @@ git config user.email
 - setting -> Access -> Emails -> GitHub 계정 이메일 확인 
 <br/><br/>
 
+
 ## 4. 이메일 주소 재설정 
 - GitHub 이메일과 commit시 사용한 이메일이 다를 경우 재설정 해준다. 
 ```
