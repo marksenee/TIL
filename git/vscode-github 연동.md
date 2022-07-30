@@ -1,4 +1,4 @@
-#
+
 ## 1. vscode github 설치
 -  vscode extension 열기 
 - github 입력 -> install 
