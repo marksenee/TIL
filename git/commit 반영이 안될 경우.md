@@ -27,6 +27,7 @@ git config user.email
 ## 3. Github 계정 이메일 주소 확인
 - Github 홈페이지 들어가서 아래 순서대로 계정 확인
 - setting -> Access -> Emails -> GitHub 계정 이메일 확인 
+
 <br/><br/>
 
 
