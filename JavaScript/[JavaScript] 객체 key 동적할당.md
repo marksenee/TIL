@@ -16,6 +16,7 @@ console.log(user) // { field: 'tom' }
 ```
 
 해당 코드에서 콘솔 로그를 확인해 보면 value 값은 지정해 준 “tom”이 잘 반영된 것을 확인할 수 있지만 field를 ‘name’으로 지정해줬는데도 user객체의 key가 field로 되어 있는 것을 확인할 수 있다. value는 함수, string, 변수도 사용할 수 있지만 key는 이런 처리가 허용되지 않는다. 
+
 <br /><br />
 
 ## ES6 이전 객체 키를 설정하는 방법
