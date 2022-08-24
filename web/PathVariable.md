@@ -1,5 +1,7 @@
 # [TIL] Path Variable이란?
 
+<br>
+
 ## Path Variable이란?
 
 - query string과 같이 데이터를 넘기는 방법 중 하나이다.
